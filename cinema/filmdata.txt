@@ -1,0 +1,30 @@
+Movie 1:
+Title : Zootopia 2
+Rating: 9.0
+Price : 50000
+Time  : 13:00
+
+Movie 2:
+Title : Wicked: For Good
+Rating: 7.8
+Price : 50000
+Time  : 15:00
+
+Movie 3:
+Title : Agak Laen 2
+Rating: 8.4
+Price : 45000
+Time  : 11:00
+
+Movie 4:
+Title : Avatar: Fire and Ash
+Rating: 7.7
+Price : 60000
+Time  : 19:30
+
+Movie 5:
+Title : Demon Slayer
+Rating: 8.9
+Price : 55000
+Time  : 17:00
+
